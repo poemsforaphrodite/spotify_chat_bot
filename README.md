@@ -17,7 +17,7 @@ You will need to have the following installed on your local machine:
 
 1. Clone the repository to your local machine
 
-   `git clone https://github.com/nikolajsvv/TwitchSpotifyIntegration.git`
+   `git clone https://github.com/poemsforaphrodite/spotify_chat_bot.git`
 
 2. Navigate to the directory where the repository was cloned
 
